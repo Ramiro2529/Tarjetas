@@ -54,9 +54,6 @@ public class TarjetaController {
 		
 		if(tarjetaUsuario.isEmpty()) {
 			throw new NotFoundException("Lo sentimos, no se encontró ninguna tarjeta con base a los parametros que diste");
-			
-			
-				
 		
 		}
 		
